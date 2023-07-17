@@ -36,7 +36,7 @@ for (let i = 0; i < foot_link.length; i++) {
 //     bg_wrapper.appendChild(h1);
 //     for (let i = 0; i < 20; i++) {
 //         let span = document.createElement("span");
-//         span.textContent = "Hans";
+//         span.textContent = "Mateo";
 //         h1.appendChild(span);
 //     }
 // }
